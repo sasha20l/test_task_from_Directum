@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3Directum", "Task3Directum\Task3Directum.csproj", "{A492CDBD-29C4-44A3-83E2-BDC480E17BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A492CDBD-29C4-44A3-83E2-BDC480E17BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A492CDBD-29C4-44A3-83E2-BDC480E17BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A492CDBD-29C4-44A3-83E2-BDC480E17BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A492CDBD-29C4-44A3-83E2-BDC480E17BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4495F3C-DAA7-4315-9ED0-8FF13C5AEB43}
+	EndGlobalSection
+EndGlobal

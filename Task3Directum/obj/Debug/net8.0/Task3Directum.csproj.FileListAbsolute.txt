@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\bin\Debug\net8.0\Task3Directum.exe
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\bin\Debug\net8.0\Task3Directum.deps.json
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\bin\Debug\net8.0\Task3Directum.runtimeconfig.json
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\bin\Debug\net8.0\Task3Directum.dll
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\bin\Debug\net8.0\Task3Directum.pdb
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.dll
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\refint\Task3Directum.dll
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.pdb
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\Task3Directum.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Мои разработки\тестовое задание\Directum\Task3Directum\Task3Directum\obj\Debug\net8.0\ref\Task3Directum.dll
